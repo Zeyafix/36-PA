@@ -1,0 +1,5 @@
+[
+  {"name": "Notebook", "quantity": 2, "minimum": 5},
+  {"name": "Pen", "quantity": 10, "minimum": 10},
+  {"name": "Folder", "quantity": 0, "minimum": 4}
+]
